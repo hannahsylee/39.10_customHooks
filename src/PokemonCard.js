@@ -1,5 +1,5 @@
 import React from "react";
-import useFlip from './hook';
+import { useFlip } from './hook';
 import "./PokemonCard.css";
 
 /* Renders a single pokemon card. */
